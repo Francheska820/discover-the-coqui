@@ -6,7 +6,7 @@ About the project:
   to create an entertaining game that reflected my culture. The coquí's elusive nature and distinctive sound made 
   it perfect for this search game.
   
-Experiencedeveloping it:
+Experience developing it:
   Developing Discover the Coquí was both an exciting and educational journey. It gave me the opportunity to apply 
   what I learned from Code in Place and dive into various aspects of game development using Pygame. From designing 
   interactive gameplay elements to debugging logic and implementing audio/visual feedback, each step deepened my 
